@@ -1,0 +1,6 @@
+keras
+nltk
+numpy
+tensorflow
+torch
+transformers
